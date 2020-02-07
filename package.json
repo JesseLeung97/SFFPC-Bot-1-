@@ -1,0 +1,22 @@
+{
+  "name": "sffpc-bot-1-",
+  "version": "1.0.0",
+  "description": "sffpc bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesseLeung97/SFFPC-Bot-1-.git"
+  },
+  "author": "Jesse & Denz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesseLeung97/SFFPC-Bot-1-/issues"
+  },
+  "homepage": "https://github.com/JesseLeung97/SFFPC-Bot-1-#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
